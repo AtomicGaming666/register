@@ -1,12 +1,13 @@
 {
-    "description": "My Personal Landing Page!",
-    "repo": "https://github.com/icancodebeauty/aditya",
+    "description": "my personal homepage",
+    "repo": "https://github.com/dedomil",
     "owner": {
-        "username": "icancodebeauty",
-        "email": "aditya@mail.aditya.is-a.dev",
-        "twitter": "@CodeWithAadi"
+        "username": "dedomil",
+        "email": "ishqaddy@gmail.com",
+        "twitter": "aadixl",
+        "discord": "dedomil"
     },
     "record": {
-        "CNAME": "icancodebeauty.github.io"
+        "CNAME": "dedomil.github.io"
     }
 }
